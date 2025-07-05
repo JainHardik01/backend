@@ -23,7 +23,8 @@ connectDB()
 
 
 
-/*   this will make in indutrial appr.
+/*  " ----------------- this will make in indutrial appr. ----------------- "
+
 
 import express from "express";
 const app = express()
